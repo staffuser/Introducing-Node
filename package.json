@@ -1,0 +1,4 @@
+"scripts": {
+  "dev": "npx pm2-dev server.js",
+  "start": "npx pm2 start server.js"
+}
